@@ -36,10 +36,7 @@
   "devDependencies": {
     "jasmine-node": "^1.14.5",
     "mongodb": "^2.1.18",
-    "mongoose": "^4.4.14",
+    "mongoose": "^4.6.3",
     "rimraf": "^2.2.8"
-  },
-  "peerDependencies": {
-    "mongoose": ">= 4.4.x"
   }
 }
